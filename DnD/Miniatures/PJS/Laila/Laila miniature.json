@@ -44,9 +44,9 @@
       "HideWhenFaceDown": false,
       "Hands": false,
       "CustomMesh": {
-        "MeshURL": "https://raw.githubusercontent.com/Burutsu/Tabletop-Resources/master/Miniatures/Laila/mesh.obj",
-        "DiffuseURL": "https://raw.githubusercontent.com/Burutsu/Tabletop-Resources/master/Miniatures/Laila/image.png",
-        "NormalURL": "https://raw.githubusercontent.com/Burutsu/Tabletop-Resources/master/Miniatures/Laila/bump.png",
+        "MeshURL": "https://raw.githubusercontent.com/Burutsu/Tabletop-Resources/master/DnD/Miniatures/PJS/Laila/mesh.obj",
+        "DiffuseURL": "https://raw.githubusercontent.com/Burutsu/Tabletop-Resources/master/DnD/Miniatures/PJS/Laila/image.png",
+        "NormalURL": "https://raw.githubusercontent.com/Burutsu/Tabletop-Resources/master/DnD/Miniatures/PJS/Laila/bump.png",
         "ColliderURL": "",
         "Convex": true,
         "MaterialIndex": 0,
